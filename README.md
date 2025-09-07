@@ -13,7 +13,7 @@ Website untuk mengelola informasi ekstrakurikuler SMK:
 
 # 🚀 Progress (Checklist)
 - [x] Repository dibuat
-- [ ] Tambah struktur folder
+- [x ] Tambah struktur folder
 - [ ] Desain wireframe
 - [ ] Database & fitur login
 - [ ] Integrasi front-end ↔ back-end
