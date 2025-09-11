@@ -6,14 +6,12 @@
 - Zaky Virman Abi — UI/UX + Front-End Developer
 
 # 📖 Deskripsi
-Website Praktik Kerja Lapangan (PKL) adalah platform online yang memudahkan siswa, guru, dan instansi dalam mengelola kegiatan PKL. Siswa bisa mendaftar, menulis jurnal harian, dan membuat laporan akhir, sementara guru serta instansi dapat memantau perkembangan dan memberi penilaian dengan lebih praktis
+Website **Praktik Kerja Lapangan (PKL)** adalah platform online yang memudahkan siswa, guru, dan instansi dalam mengelola kegiatan PKL. Siswa bisa mendaftar, menulis jurnal harian, dan membuat laporan akhir, sementara guru serta instansi dapat memantau perkembangan dan memberi penilaian dengan lebih praktis
 
 # 🎯 Fitur Utama Website PKL
-Pendaftaran PKL Online – siswa mendaftar dan memilih tempat PKL.
-Jurnal Kegiatan Harian – siswa menulis laporan aktivitas setiap hari.
-Monitoring & Penilaian – guru pembimbing dapat memantau progres siswa.
-Feedback Industri – perusahaan/instansi memberikan evaluasi langsung.
-Laporan PKL Digital – mempermudah penyusunan laporan akhir PKL.
+-**Profil perusahaan mitra** - siswa dan pihak sekolah bisa cepat memahami perusahaan tersebut.
+-**pendaftaran PKL** - siswa mendaftar dan memilih tempat PKL
+-**laporan monitoring kegiatan** -guru pembimbing dapat memantau progres siswa
 
 # 🚀 Progress (Checklist)
 - [x] Repository dibuat
